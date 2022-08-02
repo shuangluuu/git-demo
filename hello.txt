@@ -7,5 +7,5 @@ hello Erin! welcome to Git!
 hello Erin! welcome to Git!
 hello Erin! welcome to Git!
 hello Erin! welcome to Git!
-hello Erin! welcome to Git!
+hello Erin! welcome to Git! master test
 hello Erin! welcome to Git!
